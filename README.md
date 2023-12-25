@@ -1,3 +1,3 @@
 # ECE-657
 
-Repository for ECE-657 Spring 2023 assignments and solutions.
+Repository for assignment solutions for the ECE 657 course in the Spring 2023 term at the University of Waterloo.
